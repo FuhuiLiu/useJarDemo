@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="D:\MyGit\volley2\useJarDemo\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="e4e09b2d082c54b33e2c57b3c3a0061083e3a6a7">
+        <dex dex="D:\MyGit\volley2\useJarDemo\app\build\intermediates\pre-dexed\debug\instant-run-bootstrap_628c13d673fac6fd0a5e39ede65acce9d92b13e1.jar" />
+    </item>
+    <item
+        jar="D:\MyGit\volley2\useJarDemo\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.3.0\jars\libs\internal_impl-23.3.0.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="4da5a4d697d32497c6f85567a5112e62fdfd0676">
+        <dex dex="D:\MyGit\volley2\useJarDemo\app\build\intermediates\pre-dexed\debug\internal_impl-23.3.0_ae52b37382be60de7db260b3d1d9fe76a7d4b57c.jar" />
+    </item>
+    <item
+        jar="D:\MyGit\volley2\useJarDemo\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="4486e953d1f35f8ccab098b1dd67146366d5f731">
+        <dex dex="D:\MyGit\volley2\useJarDemo\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-22.2.1_67b9050b7ec8ca4e4936536e5c8eabbe3e7ebb54.jar" />
+    </item>
+    <item
+        jar="D:\Android\android-sdk\extras\android\m2repository\com\android\support\support-annotations\23.3.0\support-annotations-23.3.0.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="db7791d75a07fef9844d06236c1c59ba7bf6997c">
+        <dex dex="D:\MyGit\volley2\useJarDemo\app\build\intermediates\pre-dexed\debug\support-annotations-23.3.0_af65f9bf229f4e30dc3facfc1514e46576e2b9a5.jar" />
+    </item>
+    <item
+        jar="D:\MyGit\volley2\useJarDemo\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="166581f10b05eb358d8144f730acbcfce316ab13">
+        <dex dex="D:\MyGit\volley2\useJarDemo\app\build\intermediates\pre-dexed\debug\instant-run_7578af6522ec25a7f238d97d7aa2ebd911e00a15.jar" />
+    </item>
+    <item
+        jar="D:\MyGit\volley2\useJarDemo\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.3.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="8a034dd16c0dfd75fe86c52c2cd581592acc684a">
+        <dex dex="D:\MyGit\volley2\useJarDemo\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-23.3.0_9d5db06ac79e5ef842c8faa05849acd1daff5f5c.jar" />
+    </item>
+
+</items>
